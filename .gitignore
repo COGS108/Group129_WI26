@@ -187,4 +187,12 @@ data/*/*.MP*
 data/*.sq*
 data/*/*.sq*
 data/*.SQ*
-data/*/*.SQ*
+data/*/*.SQ*# data (do not push)
+data/
+data_reviews/
+*.zip
+*.json
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
